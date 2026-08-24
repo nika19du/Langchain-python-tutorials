@@ -1,5 +1,4 @@
 from dotenv import load_dotenv
-from langchain_core import chat_history
 
 load_dotenv()
 
